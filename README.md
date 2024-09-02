@@ -1,19 +1,12 @@
 # Optimizing Image Classification Model: Exploring with CNNs, Transfer Learning, Hyperparameter Tuning, and K-Fold Cross-Validation
 
+![SemiconductorShortage](https://github.com/user-attachments/assets/bc80e6ba-663d-404f-8bca-b1d6a63426a5)
+
 This project focuses on optimizing an image classification model using Convolutional Neural Networks (CNNs), transfer learning, hyperparameter tuning, and K-Fold Cross-Validation. The goal is to explore various techniques to improve model performance on the CIFAR-10 dataset.
 
 ## Disclaimer
 
 This project is for exploration and testing purposes only and is not intended for production use.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Evaluation](#evaluation)
-6. [Conclusion](#conclusion)
 
 ## Introduction
 
